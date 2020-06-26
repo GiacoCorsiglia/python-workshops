@@ -7,3 +7,7 @@
 - [numpy documentation](https://numpy.org/doc/stable/)
 - [PEP8 Python Conventions](https://www.python.org/dev/peps/pep-0008/)
 - Add `site:stackoverflow.com` to your Google searches!
+
+## Coding Practice
+
+- [Project Euler](https://projecteuler.net/)
