@@ -1,5 +1,7 @@
 # Python workshops
 
+You can download this entire set of files by clicking on the green "Code" button then clicking on "Download Zip."  Alternatively, click on the "DOWNLOADS" folder to download individual notebooks.
+
 ## Resources
 
 - [Python Documentation](https://docs.python.org/3/index.html)
